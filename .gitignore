@@ -1,2 +1,4 @@
 doc
 *.log
+.DS_Store
+*.orig
